@@ -1,4 +1,3 @@
-# SQL-Case-Study-Data-Bank
 # SQL Case Study Data Bank
 
 ## Introduction
